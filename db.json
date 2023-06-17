@@ -1,7 +1,23 @@
 {
   "videos": [
     {
+      "id": 8,
+      "imagem": "https://github.com/Luis-Emanuel/Apeperia/blob/main/readme/Apeperia-GIF.gif?raw=true",
+      "url":"https://apeperia-nt.vercel.app/",
+      "titulo": "Apeperia",
+      "descricao": "Pagina web da Apeperia uma empresa que desenvolve aplicativos para pequenas e medias empresas",
+      "linkgit": "https://github.com/Luis-Emanuel/Apeperia"
+    },
+    {
       "id": 7,
+      "imagem": "https://github.com/Luis-Emanuel/AluraBooks/blob/main/readme/AluraBooks-GIF.gif?raw=true",
+      "url":"https://alura-book-4d843a40q-luis-emanuel.vercel.app/",
+      "titulo": "AlurBooKs",
+      "descricao": "O AluraBook nada mais é do que uma empresa de venda de livros do grupo Alura, de livros técnicos.",
+      "linkgit": "https://github.com/Luis-Emanuel/AluraBooks"
+    },
+    {
+      "id": 8,
       "imagem": "https://github.com/Luis-Emanuel/Fruta-Fruto/blob/main/readme/fruta-fruto-gif.gif?raw=true",
       "url":"https://luis-emanuel.github.io/Fruta-Fruto/",
       "titulo": "Fruta & Fruto",
