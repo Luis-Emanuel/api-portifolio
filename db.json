@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": 11,
+      "imagem": "https://github.com/Luis-Emanuel/Alura-SPA/raw/main/readme/gif.gif?raw=true",
+      "url":"https://alura-spa-puce.vercel.app/",
+      "titulo": "Alura SPA",
+      "descricao": "Página web de um SPA com o intuído de divulgar os serviços e atrair clientes, utilizamos o SASS para a estilização do projeto",
+      "linkgit": "https://github.com/Luis-Emanuel/Alura-SPA"
+    },
+    {
       "id": 10,
       "imagem": "https://github.com/Luis-Emanuel/Apeperia/blob/main/readme/Apeperia-GIF.gif?raw=true",
       "url":"https://apeperia-nt.vercel.app/",
