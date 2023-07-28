@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": 13,
+      "imagem": "https://github.com/Luis-Emanuel/-aluraNewsletter/raw/main/readme/gif.gif?raw=true",
+      "url":"https://alura-newsletter-fawn.vercel.app/",
+      "titulo": "Alura Newsletter",
+      "descricao": "Página de assinatura de uma newsletter com campo para inserir e-mail. O diferencial desse projeto e que ele utiliza o framework Tailwind para estilizar a página.",
+      "linkgit": "https://github.com/Luis-Emanuel/-aluraNewsletter"
+    },
+    {
+      "id": 12,
+      "imagem": "https://github.com/Luis-Emanuel/Culturama/raw/main/assets/img-git/gif%20DESK.gif?raw=true",
+      "url":"https://culturama-swart.vercel.app/",
+      "titulo": "Culturama",
+      "descricao": "Pagina Web destinada a divulgação de eventos culturais, esse projeto tem como objetivo praticar a utilização de FlexBox e Grid com base no mobile-first",
+      "linkgit": "https://github.com/Luis-Emanuel/Culturama"
+    },
+    {
       "id": 11,
       "imagem": "https://github.com/Luis-Emanuel/Alura-SPA/raw/main/readme/gif.gif?raw=true",
       "url":"https://alura-spa-puce.vercel.app/",
