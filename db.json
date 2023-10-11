@@ -114,7 +114,7 @@
     },
     {
       "id": 2,
-      "imagem": "https://github.com/Luis-Emanuel/Alura_Plus/blob/main/readme/readmiGIF.gif?raw=true",
+      "imagem": "",
       "url":"https://alura-plus-nt.vercel.app/",
       "titulo": "Alura Plus",
       "descricao": "Um página inicial feita para a divulgação dos planos dos cursos da Alura",
@@ -122,7 +122,7 @@
     },
     {
       "id": 1,
-      "imagem": "https://github.com/Luis-Emanuel/barbearia/raw/main/readme/readmeGIF.gif?raw=true",
+      "imagem": "",
       "url":"https://barbearia-k7xo27ev3-luis-emanuel.vercel.app/index.html",
       "titulo": "Barbearia",
       "descricao": "Pagina Web de uma barbearia com área de contato e lista de produtos",
