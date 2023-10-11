@@ -106,7 +106,7 @@
     },
     {
       "id": 3,
-      "imagem": "https://api-portifolio-i8o47898o-luis-emanuel.vercel.app/img/Alurinha.png",
+      "imagem": "https://imgport.netlify.app/img/Alurinha.png",
       "url":"https://luis-emanuel.github.io/Alurinha/",
       "titulo": "Alurinha",
       "descricao": "É uma página de gerenciamento de cursos online. Seu desenvolvimento tem como objetivo colocar em pratica conhecimentos de flexbox",
@@ -114,7 +114,7 @@
     },
     {
       "id": 2,
-      "imagem": "https://api-portifolio-i8o47898o-luis-emanuel.vercel.app/img/Alura_Plus.png",
+      "imagem": "https://imgport.netlify.app/img/Alura_Plus.png",
       "url":"https://alura-plus-nt.vercel.app/",
       "titulo": "Alura Plus",
       "descricao": "Um página inicial feita para a divulgação dos planos dos cursos da Alura",
@@ -122,7 +122,7 @@
     },
     {
       "id": 1,
-      "imagem": "https://api-portifolio-i8o47898o-luis-emanuel.vercel.app/img/Barbearia.png",
+      "imagem": "https://imgport.netlify.app/img/Barbearia.png",
       "url":"https://barbearia-k7xo27ev3-luis-emanuel.vercel.app/index.html",
       "titulo": "Barbearia",
       "descricao": "Pagina Web de uma barbearia com área de contato e lista de produtos",
