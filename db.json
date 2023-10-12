@@ -74,56 +74,56 @@
     },
     {
       "id": 7,
-      "imagem": "https://github.com/Luis-Emanuel/Comunidade-de-Skate-HZC/blob/main/readme/comunidade-gif.gif?raw=true",
-      "url":"https://luis-emanuel.github.io/Comunidade-de-Skate-HZC/",
+      "imagem": "https://imgport.netlify.app/img/comunidade_skate_hzc.png.png",
+      "url":"https://comunidade-skate-hzc-nt.vercel.app/",
       "titulo": "Comunidade de Skate HZC",
       "descricao": "Pagina Web de uma comunidade de skate, esse projeto tem como objetivo praticar o posicionamento de elementos utilizando grid",
-      "linkgit": "https://github.com/Luis-Emanuel/Comunidade-de-Skate-HZC/tree/main"
+      "linkgit": "https://github.com/Luis-Emanuel/Comunidade_de_Skate_HZC"
     },
     {
       "id": 6,
-      "imagem": "https://github.com/Luis-Emanuel/Alura_Cast/blob/main/readme/GIF.gif?raw=true",
-      "url":"https://alura-cast-bqcm.vercel.app/#",
+      "imagem": "https://imgport.netlify.app/img/alura_cast.png",
+      "url":"https://alura-cast-nt.vercel.app/",
       "titulo": "Alura Cast",
       "descricao": "Alura Cast é uma página estática e totalmente responsiva inspirada na plataforma Spotify e foi construída somente com CSS Grid Layout",
       "linkgit": "https://github.com/Luis-Emanuel/Alura_Cast"
     },
     {
       "id": 5,
-      "imagem": "https://github.com/Luis-Emanuel/Alura_Strore/blob/main/readme/gif.gif?raw=true",
-      "url":"https://alura-strore-2yssjoef7-luis-emanuel.vercel.app/",
-      "titulo": "Alura Strore",
+      "imagem": "https://imgport.netlify.app/img/alura_store.png",
+      "url":"https://alura-store-nt.vercel.app/",
+      "titulo": "Alura Store",
       "descricao": "Alura Store e uma página de uma loja de aplicativos que tem como objetivo trabalhar o posicionamento de elementos no grid layout",
-      "linkgit": "https://github.com/Luis-Emanuel/Alura_Strore"
+      "linkgit": "https://github.com/Luis-Emanuel/Alura_Store"
     },
     {
       "id": 4,
-      "imagem": "https://api-portifolio-i8o47898o-luis-emanuel.vercel.app/img/AluraPlay.png",
-      "url":"https://alura-play-ivory.vercel.app/#",
+      "imagem": "https://imgport.netlify.app/img/alura_play.png",
+      "url":"https://alura-play-nt.vercel.app/",
       "titulo": "Alura Play",
       "descricao": "O projeto se chama AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celular, tablets e desktops.",
-      "linkgit": "https://github.com/Luis-Emanuel/AluraPlay"
+      "linkgit": "https://github.com/Luis-Emanuel/Alura_Play"
     },
     {
       "id": 3,
-      "imagem": "https://imgport.netlify.app/img/Alurinha.png",
-      "url":"https://luis-emanuel.github.io/Alurinha/",
+      "imagem": "https://imgport.netlify.app/img/alurinha.png",
+      "url":"https://alurinha-nt.vercel.app/",
       "titulo": "Alurinha",
       "descricao": "É uma página de gerenciamento de cursos online. Seu desenvolvimento tem como objetivo colocar em pratica conhecimentos de flexbox",
       "linkgit": "https://github.com/Luis-Emanuel/Alurinha"
     },
     {
       "id": 2,
-      "imagem": "https://imgport.netlify.app/img/Alura_Plus.png",
+      "imagem": "https://imgport.netlify.app/img/alura_plus.png",
       "url":"https://alura-plus-nt.vercel.app/",
       "titulo": "Alura Plus",
-      "descricao": "Um página inicial feita para a divulgação dos planos dos cursos da Alura",
+      "descricao": "Um página feita para a divulgação dos planos dos cursos da Alura",
       "linkgit": "https://github.com/Luis-Emanuel/Alura_Plus"
     },
     {
       "id": 1,
-      "imagem": "https://imgport.netlify.app/img/Barbearia.png",
-      "url":"https://barbearia-k7xo27ev3-luis-emanuel.vercel.app/index.html",
+      "imagem": "https://imgport.netlify.app/img/barbearia.png",
+      "url":"https://barbearia-nt.vercel.app/",
       "titulo": "Barbearia",
       "descricao": "Pagina Web de uma barbearia com área de contato e lista de produtos",
       "linkgit": "https://github.com/Luis-Emanuel/barbearia"
