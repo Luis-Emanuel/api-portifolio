@@ -2,75 +2,75 @@
   "videos": [
     {
       "id": 16,
-      "imagem": "https://github.com/Luis-Emanuel/Mochila-de-Viagem/raw/main/readme/gif.gif?raw=true",
-      "url":"https://mochila-de-viagem-tau-inky.vercel.app/",
+      "imagem": "https://imgport.netlify.app/img/mochila_de_viagem.png",
+      "url":"https://mochila-de-viagem-nt.vercel.app/",
       "titulo": "Mochila de Viagem",
       "descricao": "O Mochila de Viagem faz a listagem de itens, servindo com o intuído de registra tudo antes de uma viajem para não esquecer de nada que você quer levar",
-      "linkgit": "https://github.com/Luis-Emanuel/Mochila-de-Viagem"
+      "linkgit": "https://github.com/Luis-Emanuel/Mochila_de_Viagem"
     },
     {
       "id": 15,
-      "imagem": "https://github.com/Luis-Emanuel/Alura_Midi/blob/main/readme/gif.gif?raw=true",
-      "url":"https://luis-emanuel.github.io/Alura_Midi/",
+      "imagem": "https://imgport.netlify.app/img/alura_midi.png",
+      "url":"https://alura-midi-nt.vercel.app/",
       "titulo": "Alura MIDI",
       "descricao": "O Alura MIDI é um instrumento musical de interface digitial, que reproduz sons de instrumentos musicais, ao usuário clicar ou pressionar com teclado em seus botões.",
       "linkgit": "https://github.com/Luis-Emanuel/Alura_Midi"
     },
     {
       "id": 14,
-      "imagem": "https://github.com/Luis-Emanuel/Acessibilidade-Apeperia/raw/main/readme/gif.gif?raw=true",
-      "url":"https://luis-emanuel.github.io/Acessibilidade-Apeperia/",
+      "imagem": "https://imgport.netlify.app/img/apeperia_acessibilidade.png",
+      "url":"https://apeperia-acessibilidade-nt.vercel.app/",
       "titulo": " Apeperia Acessibilidade",
       "descricao": "Pagina web da Apeperia uma empresa que desenvolve aplicativos para pequenas e medias empresas. Está página foi totalmente desenvolvida pensado em acessibilidade ",
-      "linkgit": "https://github.com/Luis-Emanuel/Acessibilidade-Apeperia"
+      "linkgit": "https://github.com/Luis-Emanuel/Apeperia_Acessibilidade"
     },
     {
       "id": 13,
-      "imagem": "https://github.com/Luis-Emanuel/Culturama/raw/main/assets/img-git/gif%20DESK.gif?raw=true",
-      "url":"https://culturama-swart.vercel.app/",
+      "imagem": "https://imgport.netlify.app/img/culturama.png",
+      "url":"https://culturama-nt.vercel.app/",
       "titulo": "Culturama",
       "descricao": "Pagina Web destinada a divulgação de eventos culturais, esse projeto tem como objetivo praticar a utilização de FlexBox e Grid com base no mobile-first",
       "linkgit": "https://github.com/Luis-Emanuel/Culturama"
     },
     {
       "id": 12,
-      "imagem": "https://github.com/Luis-Emanuel/-aluraNewsletter/raw/main/readme/gif.gif?raw=true",
-      "url":"https://alura-newsletter-fawn.vercel.app/",
+      "imagem": "https://imgport.netlify.app/img/alura_newsletter.png",
+      "url":"https://alura-newsletter-nt.vercel.app/",
       "titulo": "Alura Newsletter",
       "descricao": "Página de assinatura de uma newsletter com campo para inserir e-mail. O diferencial desse projeto e que ele utiliza o framework Tailwind para estilizar a página.",
-      "linkgit": "https://github.com/Luis-Emanuel/-aluraNewsletter"
+      "linkgit": "https://github.com/Luis-Emanuel/Alura_Newsletter"
     },
     {
       "id": 11,
-      "imagem": "https://github.com/Luis-Emanuel/Alura-SPA/raw/main/readme/gif.gif?raw=true",
-      "url":"https://alura-spa-puce.vercel.app/",
+      "imagem": "https://imgport.netlify.app/img/alura_spa.png",
+      "url":"https://alura-spa-nt.vercel.app/",
       "titulo": "Alura SPA",
       "descricao": "Página web de um SPA com o intuído de divulgar os serviços e atrair clientes, utilizamos o SASS para a estilização do projeto",
-      "linkgit": "https://github.com/Luis-Emanuel/Alura-SPA"
+      "linkgit": "https://github.com/Luis-Emanuel/Alura_Spa"
     },
     {
       "id": 10,
-      "imagem": "https://github.com/Luis-Emanuel/Apeperia/blob/main/readme/Apeperia-GIF.gif?raw=true",
-      "url":"https://luis-emanuel.github.io/Acessibilidade-Apeperia/",
+      "imagem": "https://imgport.netlify.app/img/apeperia.png",
+      "url":"https://apeperia-nt.vercel.app/",
       "titulo": "Apeperia",
       "descricao": "Pagina web da Apeperia uma empresa que desenvolve aplicativos para pequenas e medias empresas",
-      "linkgit": "https://github.com/Luis-Emanuel/Acessibilidade-Apeperia"
+      "linkgit": "https://github.com/Luis-Emanuel/Apeperia"
     },
     {
       "id": 9,
-      "imagem": "https://github.com/Luis-Emanuel/AluraBooks/blob/main/readme/AluraBooks-GIF.gif?raw=true",
-      "url":"https://alura-book-4d843a40q-luis-emanuel.vercel.app/",
+      "imagem": "https://imgport.netlify.app/img/alura_books.png",
+      "url":"https://alura-books-nt.vercel.app/",
       "titulo": "AlurBooKs",
       "descricao": "O AluraBook nada mais é do que uma empresa de venda de livros do grupo Alura, de livros técnicos.",
-      "linkgit": "https://github.com/Luis-Emanuel/AluraBooks"
+      "linkgit": "https://github.com/Luis-Emanuel/Alura_Books"
     },
     {
       "id": 8,
-      "imagem": "https://github.com/Luis-Emanuel/Fruta-Fruto/blob/main/readme/fruta-fruto-gif.gif?raw=true",
-      "url":"https://luis-emanuel.github.io/Fruta-Fruto/",
+      "imagem": "https://imgport.netlify.app/img/fruta_fruto.png",
+      "url":"https://fruta-fruto-nt.vercel.app/",
       "titulo": "Fruta & Fruto",
       "descricao": "Pagina Web com intuído de ensinar receitas saudáveis e economicas, esse projeto tem como objetivo praticar a utilização de Atomic Design e BEM “Block-Level Extensible Method”",
-      "linkgit": "https://github.com/Luis-Emanuel/Fruta-Fruto"
+      "linkgit": "https://github.com/Luis-Emanuel/Fruta_Fruto"
     },
     {
       "id": 7,
