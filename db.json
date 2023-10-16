@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": 17,
+      "imagem": "https://imgport.netlify.app/img/numero_secreto.png",
+      "url":"https://numero-secreto-nt.vercel.app/",
+      "titulo": "Número Secreto",
+      "descricao": "Um jogo na qual e gerado um número aleatório entre 1 e 100 e o usuário deve acertar o valor. O joga dá dicas caso não acerte o número secreto informando se for maior ou menor do que o valor que o usuário chutou",
+      "linkgit": "https://github.com/Luis-Emanuel/Numero_Secreto"
+    },
+    {
       "id": 16,
       "imagem": "https://imgport.netlify.app/img/mochila_de_viagem.png",
       "url":"https://mochila-de-viagem-nt.vercel.app/",
