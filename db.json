@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": 18,
+      "imagem": "https://imgport.netlify.app/img/alura_book_api_cep.png",
+      "url":"https://alura-book-api-cep-nt.vercel.app/",
+      "titulo": "AluraBook API CEP",
+      "descricao": "Uma página de cadastro de usuário do site Alura Book um e-commerce de livros técnicos",
+      "linkgit": "https://github.com/Luis-Emanuel/AluraBook_API_CEP"
+    },
+    {
       "id": 17,
       "imagem": "https://imgport.netlify.app/img/numero_secreto.png",
       "url":"https://numero-secreto-nt.vercel.app/",
