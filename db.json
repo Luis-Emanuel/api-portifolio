@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": 19,
+      "imagem": "https://imgport.netlify.app/img/alura_book_array.png",
+      "url":"https://alura-book-array-nt.vercel.app/",
+      "titulo": "Alura Book Array",
+      "descricao": "Página do site Alura Book com uma lista de livros técnicos",
+      "linkgit": "https://github.com/Luis-Emanuel/Alura_Book_Array"
+    },
+    {
       "id": 18,
       "imagem": "https://imgport.netlify.app/img/alura_book_api_cep.png",
       "url":"https://alura-book-api-cep-nt.vercel.app/",
