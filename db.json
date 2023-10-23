@@ -4,7 +4,7 @@
       "id": 21,
       "imagem": "https://imgport.netlify.app/img/monibank.png",
       "url":"https://monibank-nt.vercel.app/",
-      "titulo": "monibank",
+      "titulo": "Monibank",
       "descricao": "Formulário de cadastro do banco Monibank, este projeto teve como intuído trabalhar a validação de campos do formulário",
       "linkgit": "https://github.com/Luis-Emanuel/monibank"
     },
