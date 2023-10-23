@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": 20,
+      "imagem": "https://imgport.netlify.app/img/alura_play_dinamico.png",
+      "url":"https://alura-play-dinamico-nt.vercel.app/",
+      "titulo": "Alura Play Dinâmico",
+      "descricao": "Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.",
+      "linkgit": "https://github.com/Luis-Emanuel/Alura_Play_Dinamico"
+    },
+    {
       "id": 19,
       "imagem": "https://imgport.netlify.app/img/alura_book_array.png",
       "url":"https://alura-book-array-nt.vercel.app/",
