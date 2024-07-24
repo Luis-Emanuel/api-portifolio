@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+    "id": 24,
+    "imagem": "https://imgport.netlify.app/img/meteora.png",
+    "url": "https://meteora-nt.vercel.app/",
+    "titulo": "Meteora",
+    "descricao": "Um E-commerce de uma loja de roupas onde contém um carrinho lateral, uma página de carrinho e uma página de erro.",
+    "linkgit": "https://github.com/Luis-Emanuel/Meteora"
+    },
+    {
       "id": 23,
       "imagem": "https://imgport.netlify.app/img/space_app.png",
       "url":"https://space-app-nt.vercel.app/",
