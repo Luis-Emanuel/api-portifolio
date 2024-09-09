@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+    "id": 25,
+    "imagem": "https://imgport.netlify.app/img/organo_ts.png",
+    "url": "https://organo-ts-nt.vercel.app/",
+    "titulo": "Organo TypeScript",
+    "descricao": "Pagina web que propõe uma aplicação que cria e organiza os times empresariais, dessa vez migramos ela para TypeScript.",
+    "linkgit": "https://github.com/Luis-Emanuel/Organo_Ts"
+    },
+    {
     "id": 24,
     "imagem": "https://imgport.netlify.app/img/meteora.png",
     "url": "https://meteora-nt.vercel.app/",
