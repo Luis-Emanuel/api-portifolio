@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+    "id": 26,
+    "imagem": "https://imgport.netlify.app/img/Alura_Studies.png",
+    "url": "https://alura-studies-nt.vercel.app/",
+    "titulo": "Alura Studies",
+    "descricao": "Uma aplicação para criar, organizar e acompanhar suas tarefas",
+    "linkgit": "https://github.com/Luis-Emanuel/Alura_Studies"
+    },
+    {
     "id": 25,
     "imagem": "https://imgport.netlify.app/img/organo_ts.png",
     "url": "https://organo-ts-nt.vercel.app/",
